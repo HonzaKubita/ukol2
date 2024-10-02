@@ -1,4 +1,4 @@
-# ts
+# ukol2
 
 To install dependencies:
 
